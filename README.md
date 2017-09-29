@@ -1,4 +1,4 @@
-# EDA Week 4 Project
+#Week 4 Project
 
 The project is conducted as described in following steps:
 
